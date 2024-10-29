@@ -1,0 +1,127 @@
+/* @theme academic-erbase */
+
+@import 'gaia';
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+:root {
+  --color-background: #fff;
+  --color-foreground: #333;
+  --color-highlight: #0540f1;
+}
+
+section {
+  background-image: none;
+  font-family: 'Public Sans', sans-serif;
+  padding-top: 90px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+section::after {
+  font-weight: 700;
+  content: attr(data-marpit-pagination) '/' attr(data-marpit-pagination-total);
+}
+
+ul ul {
+  font-size: 0.9em;
+}
+
+/* section.lead {
+    background: url(https://main--ornate-begonia-abfe87.netlify.app/assets/elevador.svg) no-repeat right bottom;
+    background-size: 10.75rem;
+    background-color: white;
+} */
+
+section.lead h1 {
+  color: #0540f1;
+  text-align: left;
+}
+section.lead h1 strong {
+  -webkit-text-stroke: 1px #0540f1;
+}
+section.lead h2 {
+  color: #0540f1;
+  text-align: left;
+}
+section.lead h2 strong {
+  -webkit-text-stroke: 1px #0540f1;
+}
+section.lead h3 {
+  color: #0540f1;
+  text-align: left;
+}
+section.lead h3 strong {
+  -webkit-text-stroke: 1px #0540f1;
+}
+section.lead h4 {
+  color: #0540f1;
+  text-align: left;
+}
+section.lead h4 strong {
+  -webkit-text-stroke: 1px #0540f1;
+}
+section.lead h5 {
+  color: #0540f1;
+  text-align: left;
+}
+section.lead h5 strong {
+  -webkit-text-stroke: 1px #0540f1;
+}
+section.lead p {
+  text-align: right;
+}
+
+header {
+  background-color: #0540f1;
+  color: #fff;
+  font-size: 1em;
+  font-weight: 700;
+}
+
+blockquote {
+  max-width: 90%;
+  border-top: 0.1em dashed #555;
+  font-size: 60%;
+  position: absolute;
+  bottom: 20px;
+}
+blockquote::before {
+  content: "";
+}
+blockquote::after {
+  content: "";
+}
+
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+
+img[alt~="top-right"] {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  width: 300px;
+}
+
+code {
+  font-family: 'Source Code Pro', monospace;
+}
+
+section.image_with_font p {
+  text-align: center;
+  font-size: 12px;
+}
+
+section.image_with_font blockquote p {
+  text-align: left;
+  font-size: 12px;
+}
+
+c {
+  text-align: center;
+  font-size: 12px;
+  display: flow;
+  margin-top: -30px;
+}
