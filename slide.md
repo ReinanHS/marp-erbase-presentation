@@ -45,7 +45,7 @@ Prof. Dr. Gilson Pereira Dos Santos Junior
 
 Apresentar uma abordagem para a elaboração de materiais didáticos **simples**, **flexíveis** e em **múltiplos formatos** utilizando o Marp ¹.
 
-![w:500 center](img/ilustracao_objetivos.png)
+![w:500 center](https://raw.githubusercontent.com/ReinanHS/marp-erbase-presentation/refs/heads/master/img/ilustracao_objetivos.png)
 
 <c>Fonte: Autor, (2024).</c>
 
@@ -120,7 +120,7 @@ $$
 <!-- _class: image_with_font -->
 <!-- _header: EXEMPLO DE ESCRITA DO SLIDE EM MARKDOWN  -->
 
-![w:1200 center](img/exemplo-vetor.png)
+![w:1200 center](https://raw.githubusercontent.com/ReinanHS/marp-erbase-presentation/refs/heads/master/img/exemplo-vetor.png)
 
 Fonte: Autor, (2024).
 
