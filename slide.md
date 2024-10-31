@@ -43,13 +43,13 @@ Prof. Dr. Gilson Pereira Dos Santos Junior
 
 <!-- _header: OBJETIVO GERAL -->
 
-Apresentar uma abordagem para a elaboração de materiais didáticos **simples**, **flexíveis** e em **múltiplos formatos** utilizando o Marp.
+Apresentar uma abordagem para a elaboração de materiais didáticos **simples**, **flexíveis** e em **múltiplos formatos** utilizando o Marp ¹.
 
 ![w:500 center](img/ilustracao_objetivos.png)
 
 <c>Fonte: Autor, (2024).</c>
 
-> Marp: https://marp.app/
+> ¹ https://marp.app/
 
 ---
 <!-- _class: image_with_font -->
@@ -72,7 +72,7 @@ Fonte: Autor, (2024).
 
 <!-- _header: EXEMPLO DE BLOCO DE CÓDIGO  -->
 
-Um exemplo de um bloco de escrito em Java e Python:
+A documentação oficial do **Marp** ² suporta blocos de código em várias linguagens. Veja os exemplos abaixo:
 
 ```java
 class HelloWorld {
@@ -89,11 +89,13 @@ for i in numeros:
     print(i)
 ```
 
+> ² https://github.com/marp-team/marp-core?tab=readme-ov-file#auto-shrink-the-block
+
 ---
 
 <!-- _header: EXPRESSÕES MATEMÁTICAS  -->
 
-Um exemplo de expressão matemática escrita em LaTeX:
+Segundo Arino (2022), o Marp permite escolher entre o **MathJax** e o **KaTeX**. Veja o exemplo abaixo:
 
 ```tex
 \begin{align*}
@@ -111,17 +113,27 @@ S(\omega)
 \end{align*}
 $$
 
-
+> https://julien-arino.github.io/blog/2022/Marp-for-slides/
 
 ---
-<!-- _class: image_with_font -->
-<!-- _header: PIPELINE PARA AUTOMATIZAR A COMPILAÇÃO E PUBLICAÇÃO -->
 
-![w:1000 center](https://gitlab.com/reinanhs/repo-slide-presentation/-/raw/main/imagens/tcc/github-action-pipeline.png)
+<!-- _class: image_with_font -->
+<!-- _header: EXEMPLO DE ESCRITA DO SLIDE EM MARKDOWN  -->
+
+![w:1200 center](img/exemplo-vetor.png)
 
 Fonte: Autor, (2024).
 
-> Link para a pipeline: https://github.com/ReinanHS/limarka-template-tcc/actions/runs/10801707397
+---
+<!-- _header: PIPELINE PARA AUTOMATIZAR A COMPILAÇÃO E PUBLICAÇÃO -->
+
+Veja abaixo o exemplo do fluxo de execução da pipeline ³:
+
+![w:900 center](https://gitlab.com/reinanhs/repo-slide-presentation/-/raw/main/imagens/tcc/github-action-pipeline.png)
+
+<c>Fonte: Autor, (2024).</c>
+
+> ³ https://github.com/ReinanHS/limarka-template-tcc/actions/runs/10801707397
 
 ---
 <!-- _class: image_with_font -->
@@ -131,7 +143,7 @@ Fonte: Autor, (2024).
 
 Fonte: Autor, (2024).
 
-> Link para a página: https://reinanhs.github.io/tcc-bsi-ifs/
+> Link para a página: https://reinanhs.github.io/limarka-template-tcc/
 > Link para o Limarka Page: https://github.com/ReinanHS/limarka-render-html
 
 ---
@@ -158,6 +170,6 @@ Fonte: Autor, (2024).
 
 <!-- _header: PRINCIPAIS REFERÊNCIAS -->
 
-**Marp (2024)**. Markdown presentation ecosystem. https://marp.app/. Acessado em: 31 ago. 2024.
+**ARINO, Julien (2022)**. Marp for slides. Disponível em: https://julien-arino.github.io/blog/2022/Marp-for-slides/. Acesso em: 30 out. 2024.
+**Marp (2024)**. Markdown presentation ecosystem. Disponível em: https://marp.app/. Acessado em: 23 out. 2024.
 **Tenen, D. and Wythoff, G. (2022)**. Autoria sustentável em texto simples usando pandoc e markdown. The Programming Historian em Português.
-**Hofert, M. and Kohm, M. (2010)**. Scientific presentations with latex. The PracTEX Journal.
