@@ -1,0 +1,3 @@
+# Resumo
+
+Este artigo apresenta uma abordagem para elaboração de materiais didáticos simples, flexível e multi formatos através da utilização do Marp, uma ferramenta de criação de apresentações em Markdown, aliada a técnicas de Integração Contínua (CI) e Entrega Contínua (CD). A integração dessas tecnologias automatizou o processo de criação, atualização e distribuição de conteúdos educacionais em formato de slides. Para tanto, foi desenvolvido um tema customizado seguindo os padrões visuais do Instituto Federal de Sergipe (IFS). Este fluxo de trabalho otimizou o tempo dos autores, padronizou e melhorou o visual e a estrutura dos slides, favorecendo a criação de conteúdos educacionais de qualidade para o processo de ensino e aprendizado.
