@@ -19,12 +19,13 @@ keywords: 'Limarka, Markdown, Automation, Marp, Tool, Improvement and Productivi
 proposito: ''
 agradecimentos: ''
 dedicatoria: ''
+programa: Programa de Pós-Graduação em 2024
 #===============================================#
 # Configurações para o limarka-render-html
 # Link: https://github.com/ReinanHS/limarka-render-html
 #===============================================#
 page_render:
-  published_time: '2024-09-06T00:35:50-03:00'
+  published_time: '2024-11-07T00:35:50-03:00'
   instituicao_website: 'https://www.ifs.edu.br/'
   social_networks:
     facebook: reinangabriel

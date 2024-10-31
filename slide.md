@@ -19,6 +19,16 @@ Prof. Dr. Gilson Pereira Dos Santos Junior
 
 ---
 
+![bg left:40% 80%](https://www.qrtag.net/api/qr_1280.png?url=https://reinanhs.github.io/marp-erbase-presentation/)
+
+**Material utilizado na apresentação**
+
+Todos os materiais relacionados à apresentação estão disponíveis digitalmente no meu repositório do **GitHub**. Para acessar esses recursos, basta escanear o **QR Code** na imagem ao lado.
+
+> https://github.com/ReinanHS/marp-erbase-presentation
+
+---
+
 <!-- _header: Sumário -->
 
 - Problema
