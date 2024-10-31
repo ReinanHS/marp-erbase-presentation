@@ -84,7 +84,7 @@ jobs:
         run: |
           ls -al build
           sudo sed -i '0,/Visualizar PDF/s//Visualizar Slide/' build/index.html
-          sudo sed -i "s|location.href = 'https://ReinanHS.github.io/marp-erbase-presentation/assets/files/xxx-slide.pdf'|location.href = 'https://reinanhs.github.io/marp-erbase-presentation/slide'|" build/index.html
+          sudo sed -i "s|location.href = 'https://ReinanHS.github.io/marp-erbase-presentation/assets/files/slide.pdf'|location.href = 'https://reinanhs.github.io/marp-erbase-presentation/slide'|" build/index.html
       
       - name: Archive limarka artifacts
         uses: actions/upload-artifact@v3

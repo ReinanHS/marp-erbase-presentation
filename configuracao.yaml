@@ -39,6 +39,6 @@ page_render:
     - pdf
     - pptx
   files_map:
-    - "xxx-slide.pptx:elaboracao-de-materiais-didaticos-com marp-e-cicd.pptx"
-    - "xxx-slide.pdf:elaboracao-de-materiais-didaticos-com marp-e-cicd.pdf"
+    - "xxx-slide.pptx:slide.pptx"
+    - "xxx-slide.pdf:slide.pdf"
 ---
