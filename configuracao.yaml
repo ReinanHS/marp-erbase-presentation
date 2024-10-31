@@ -11,9 +11,14 @@ date: '2024'
 coorientador: 'Prof. MSc. Francisco Rodrigues Santos'
 orientador: 'Prof. Dr. Gilson Pereira Dos Santos Junior'
 resumo: 'Este artigo apresenta uma abordagem para elaboração de materiais didáticos simples, flexível e multi formatos através da utilização do Marp, uma ferramenta de criação de apresentações em Markdown, aliada a técnicas de Integração Contínua (CI) e Entrega Contínua (CD). A integração dessas tecnologias automatizou o processo de criação, atualização e distribuição de conteúdos educacionais em formato de slides. Para tanto, foi desenvolvido um tema customizado seguindo os padrões visuais do Instituto Federal de Sergipe (IFS). Este fluxo de trabalho otimizou o tempo dos autores, padronizou e melhorou o visual e a estrutura dos slides, favorecendo a criação de conteúdos educacionais de qualidade para o processo de ensino e aprendizado.'
+resumen: ''
+resume: ''
 abstract_texto: 'This article presents an approach for developing simple, flexible, and multi-format teaching materials using Marp, a Markdown presentation creation tool, combined with Continuous Integration (CI) and Continuous Delivery (CD) techniques. The integration of these technologies automated the process of creating, updating, and distributing educational content in slide format. To this end, a customized theme was developed following the visual standards of the Instituto Federal de Sergipe (IFS). This workflow optimized the authors time, standardized, and improved the visual and structure of the slides, favoring the creation of quality educational content for the teaching and learning process.'
 palavras_chave: 'Limarka, Markdown, Automação, Marp, Ferramenta, Aprimoramento e Produtividade'
 keywords: 'Limarka, Markdown, Automation, Marp, Tool, Improvement and Productivity'
+proposito: ''
+agradecimentos: ''
+dedicatoria: ''
 #===============================================#
 # Configurações para o limarka-render-html
 # Link: https://github.com/ReinanHS/limarka-render-html
