@@ -170,9 +170,7 @@ Fonte: Autor, (2024).
 
 <!-- _header: TRABALHOS FUTUROS -->
 
-- Explorar a integração do Marp com outras ferramentas educacionais e de aprendizado.
 - Ampliar a acessibilidade dos materiais didáticos gerados com Marp, focando em necessidades especiais.
-- Implementar suporte para recursos interativos nos slides, como quizzes e feedback instantâneo.
 - Avaliar o impacto do uso de Marp e CI/CD na melhoria do engajamento dos alunos.
 - Realizar a implementação de novas validações no CI.
 
