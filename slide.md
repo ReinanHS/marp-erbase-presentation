@@ -72,9 +72,9 @@ Fonte: Autor, (2024).
 ---
 
 <!-- _class: image_with_font -->
-<!-- _header: EXEMPLO SOBRE O CONTROLE NA ATUALIZAÇÃO DOS MATERIAIS  -->
+<!-- _header: EXEMPLO DE ESCRITA DO SLIDE EM MARKDOWN  -->
 
-![w:600 center](https://gitlab.com/reinanhs/repo-slide-presentation/-/raw/main/imagens/tcc/exemplo-de-discussao-em-um-pull-request.png)
+![w:1200 center](https://raw.githubusercontent.com/ReinanHS/marp-erbase-presentation/refs/heads/master/img/exemplo-vetor.png)
 
 Fonte: Autor, (2024).
 
@@ -82,17 +82,12 @@ Fonte: Autor, (2024).
 
 <!-- _header: EXEMPLO DE BLOCO DE CÓDIGO  -->
 
-A documentação oficial do **Marp** ² suporta blocos de código em várias linguagens. Veja os exemplos abaixo:
-
-```java
-class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!"); 
-    }
-}
-```
+A documentação oficial do **Marp** ² suporta blocos de código em várias linguagens. Veja o exemplo abaixo:
 
 ```python
+idade = input('qual a sua idade? ')
+print ('%d anos' %idade)
+
 numeros = (1,2,3,4,5,6)
 
 for i in numeros:
@@ -126,15 +121,6 @@ $$
 > https://julien-arino.github.io/blog/2022/Marp-for-slides/
 
 ---
-
-<!-- _class: image_with_font -->
-<!-- _header: EXEMPLO DE ESCRITA DO SLIDE EM MARKDOWN  -->
-
-![w:1200 center](https://raw.githubusercontent.com/ReinanHS/marp-erbase-presentation/refs/heads/master/img/exemplo-vetor.png)
-
-Fonte: Autor, (2024).
-
----
 <!-- _header: PIPELINE PARA AUTOMATIZAR A COMPILAÇÃO E PUBLICAÇÃO -->
 
 Veja abaixo o exemplo do fluxo de execução da pipeline ³:
@@ -161,7 +147,6 @@ Fonte: Autor, (2024).
 <!-- _header: CONCLUSÃO -->
 
 - Facilidade e automação na criação de materiais didáticos.
-- Integração eficiente de Marp com CI/CD.
 - Otimização do tempo com automação de publicação e compilação.
 - Acesso simplificado ao conteúdo por meio de uma página web.
 - Flexibilidade na distribuição em múltiplos formatos.
