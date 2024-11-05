@@ -141,7 +141,7 @@ Veja abaixo o exemplo do fluxo de execução da pipeline ³:
 
 ![w:900 center](https://gitlab.com/reinanhs/repo-slide-presentation/-/raw/main/imagens/tcc/github-action-pipeline.png)
 
-<c>Fonte: Autor, (2024).</c>
+<!-- <c>Fonte: Autor, (2024).</c> -->
 
 > ³ https://github.com/ReinanHS/limarka-template-tcc/actions/runs/10801707397
 
