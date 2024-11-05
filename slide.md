@@ -43,11 +43,10 @@ Todos os materiais relacionados à apresentação estão disponíveis digitalmen
 
 <!-- _header: PROBLEMA -->
 
-1. **Falta de padronização** nos materiais didáticos;
-2. **Falta de integração** entre ferramentas de escrita e apresentação;
-3. **Dificuldade em manter** e atualizar materiais didáticos;
-4. **Carência de automatização** na elaboração de materiais didáticos;
-5. **Complexidade** na utilização de códigos e fórmulas matemáticas.
+1. **Carência de automatização** na elaboração de materiais didáticos;
+2. **Dificuldade em manter** e atualizar materiais didáticos;
+3. **Falta de padronização** nos materiais didáticos;
+4. **Complexidade** na utilização de códigos e fórmulas matemáticas.
 
 ---
 
@@ -57,24 +56,25 @@ Apresentar uma abordagem para a elaboração de materiais didáticos **simples**
 
 ![w:500 center](https://raw.githubusercontent.com/ReinanHS/marp-erbase-presentation/refs/heads/master/img/ilustracao_objetivos.png)
 
-<c>Fonte: Autor, (2024).</c>
+<!-- <c>Fonte: Autor, (2024).</c> -->
 
 > ¹ https://marp.app/
 
 ---
-<!-- _class: image_with_font -->
-<!-- _header: SOLUÇÃO -->
 
-![center](https://mermaid.ink/img/pako:eNpdkEFuwjAQRa8y8houkEUlSFq6QUJq1Y2TxRAPxML2pI5NVSFO00UPwsU6hAi19Wrmz_NfvJNq2ZAq1D5i38FrVQeQt9CLnDgCOdxyRPCYKFp0QB7WGA-GP0ID8_kDLLXsPbQcjhQTAd_vV3Zw1lBz61yOfKlXNnV5O4XlGFZTCIs2WQ7DdKzG46Mu2ffW4eX78sVgeLjV_qWe9CZvnW0nKjBI5bNUbnD_D13pN5SCX30Y37M98tComfIUPVojSk7XT7VKHXmqVSGjoR1ml2pVh7OgKI5ePkOrihQzzVTkvO9UsUM3yJZ7I9Yqi6LW31MyVsSub9JH9-cf4tKC1A?type=png)
+<!-- _class: image_with_font -->
+<!-- _header: SOLUÇÃO  -->
+
+![w:1000 center](https://gitlab.com/reinanhs/repo-slide-presentation/-/raw/main/imagens/tcc/exemplo-do-marp-slide.png)
 
 Fonte: Autor, (2024).
 
 ---
 
 <!-- _class: image_with_font -->
-<!-- _header: EXEMPLO DE ELABORAÇÃO DE MATERIAIS DIDÁTICOS PELO MARP  -->
+<!-- _header: EXEMPLO SOBRE O CONTROLE NA ATUALIZAÇÃO DOS MATERIAIS  -->
 
-![w:1000 center](https://gitlab.com/reinanhs/repo-slide-presentation/-/raw/main/imagens/tcc/exemplo-do-marp-slide.png)
+![w:600 center](https://gitlab.com/reinanhs/repo-slide-presentation/-/raw/main/imagens/tcc/exemplo-de-discussao-em-um-pull-request.png)
 
 Fonte: Autor, (2024).
 
